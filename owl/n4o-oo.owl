@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="https://graph.nfdi4objects.net/"
-     xml:base="https://graph.nfdi4objects.net/"
+<rdf:RDF xmlns="http://graph.nfdi4objects.net/"
+     xml:base="http://graph.nfdi4objects.net/"
      xmlns:cc="http://creativecommons.org/ns#"
      xmlns:dc="http://purl.org/dc/elements/1.1/"
      xmlns:sf="http://www.opengis.net/ont/sf#"
      xmlns:bfo="http://purl.obolibrary.org/obo/"
      xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/"
      xmlns:dct="http://purl.org/dc/terms/"
-     xmlns:n4o="https://graph.nfdi4objects.net/"
+     xmlns:n4o="http://graph.nfdi4objects.net/"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
@@ -23,7 +23,7 @@
      xmlns:pleiades="https://pleiades.stoa.org/places/vocab#"
      xmlns:wikidata="http://www.wikidata.org/entity/"
      xmlns:geosparql="http://www.opengis.net/ont/geosparql#">
-    <owl:Ontology rdf:about="https://graph.nfdi4objects.net/">
+    <owl:Ontology rdf:about="http://graph.nfdi4objects.net/">
         <owl:imports rdf:resource="http://www.cidoc-crm.org/cidoc-crm/"/>
         <dc:contributor>Allard Mees</dc:contributor>
         <dc:creator>Florian Thiery, Anja Gerber, Fabian Fricke</dc:creator>
