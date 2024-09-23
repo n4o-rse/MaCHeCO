@@ -26,8 +26,8 @@ jobs:
          sudo pip3 install wheel pylode==3.0.2 rdflib
          mkdir docs
          echo "Generating documentation for Core ontology"
-         python -m pylode owl/n4o-oo.owl -o docs/index.html
-         cp owl/n4o-oo.owl docs
+         python -m pylode owl/n4o-oo.ttl -o docs/index.html
+         cp owl/n4o-oo.ttl docs
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v4
         with:
