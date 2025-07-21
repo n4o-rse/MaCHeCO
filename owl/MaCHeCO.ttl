@@ -27,12 +27,12 @@
                                   owl:imports crm: ;
                                   dc:contributor "Allard Mees" ;
                                   dc:creator "Florian Thiery, Anja Gerber, Fabian Fricke" ;
-                                  dc:description "Objects Ontology of the NFDI4Objects consortium."@en ;
+                                  dc:description "Crosswalt Ontology for CIDOC CRM of the NFDI4Objects consortium."@en ;
                                   dc:publisher "Leibniz-Zentrum für Archäologie" ;
                                   dc:rights "CC BY 4.0" ;
                                   dc:subject "archaeology; NFDI;" ;
                                   rdfs:comment "This ontology contains classes to describe data of NFDI4Objects."@en ;
-                                  rdfs:label "NFDI4Objects Objects Ontology (N4O-OO)"@en ;
+                                  rdfs:label "Material Cultural Heritage Crosswalk Ontology (MaCHeCO)"@en ;
                                   owl:versionInfo 0.1 .
 
 #################################################################

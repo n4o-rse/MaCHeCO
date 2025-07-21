@@ -25,9 +25,9 @@ jobs:
          sudo apt-get install python3-venv python3-wheel -y
          sudo pip3 install wheel pylode==3.0.2 rdflib
          mkdir docs
-         echo "Generating documentation for Core ontology"
-         python -m pylode owl/n4o-oo.ttl -o docs/index.html
-         cp owl/n4o-oo.ttl docs
+         echo "Generating documentation for MaCHeCO ontology"
+         python -m pylode owl/MaCHeCO.ttl -o docs/index.html
+         cp owl/MaCHeCO.ttl docs
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v4
         with:
