@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1753167758985" name="http://www.cidoc-crm.org/cidoc-crm/" uri="CIDOC_CRM_v7.1.3.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1753167758985" name="http://www.cidoc-crm.org/extensions/crmsci/" uri="extensions/CRMsci_v2.0.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1753167758985" name="http://www.ics.forth.gr/isl/CRMba/" uri="extensions/CRMba_v1.4.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1753167758985" name="http://www.ics.forth.gr/isl/CRMdig/" uri="extensions/CRMdig_v3.2.1.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1753167758985" name="http://www.ics.forth.gr/isl/CRMgeo/" uri="extensions/CRMgeo_v1.2.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1753167758985" name="http://www.ics.forth.gr/isl/CRMinf/" uri="extensions/CRMinf_v0.7.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1753167758985" name="https://ontology.swissartresearch.net/aaao/" uri="extensions/AAAo_v2.0.rdf"/>
+    </group>
+</catalog>
